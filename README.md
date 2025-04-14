@@ -1,1 +1,1 @@
-This is an ongoing bioinformatis project
+This is an ongoing bioinformatics project.
